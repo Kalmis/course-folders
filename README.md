@@ -1,1 +1,2 @@
 # course-folders
+Simple script for creating folders for Aalto university course. Script asks for a title which can be copied from mycourses.aalto.fi e.g. "ELEC-C5340 - Sovellettu digitaalinen signaalinkäsittely, 07.09.2015-09.12.2015". User also has to set how many credits the course is. After this the script will automatically make a named "<Course name> (<x credits>) <course code>" and in which is generated folders for every week the course takes and also other folders like "exams", "General info" etc.
